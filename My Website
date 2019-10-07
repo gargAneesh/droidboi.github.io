@@ -17,7 +17,8 @@
 
     	<h1> Aneesh's Home Page</h1>
        
-    	<img src="Pictures/home pg.gif" img style='float:right'/>
+    	<img src="Pictures/home pg.gif"/>
+       <img style='float:right'/>
 
 
 </html>
