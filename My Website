@@ -19,8 +19,8 @@
 
     	<center> Aneesh's Home Page</center>
        
-    	<img src="Pictures/home pg.gif"/>
-       <img style='float:center'/>
+    <!--	<img src="Pictures/home pg.gif"/>
+       <img style='float:center'/> //-->
 
 </body>
 </html>
