@@ -21,7 +21,7 @@
     	<a href="portfolio.html">Portfolio:</a>
 
 
-    	<marquee><center> Aneesh's Home Page</center><marquee>
+    	<marquee behavior ="scroll" direction="left" scrollamount="1"><center> Aneesh's Home Page</center><marquee>
       <img src="Pictures/home pg.gif"/>   
        <img style='float:center'/> 
 
