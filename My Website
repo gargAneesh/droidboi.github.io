@@ -21,7 +21,7 @@
     	<a href="portfolio.html">Portfolio:</a>
 
 
-    	<center> Aneesh's Home Page</center>
+    	<marquee><center> Aneesh's Home Page</center><marquee>
       <img src="Pictures/home pg.gif"/>   
        <img style='float:center'/> 
 
