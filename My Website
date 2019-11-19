@@ -1,9 +1,7 @@
 
 
        
-    <!--	<img src="Pictures/home pg.gif"/>
-       <img style='float:center'/> //-->
-
+ 
 <!DOCTYPE html>
 <html>
 
@@ -24,6 +22,8 @@
 
 
     	<center> Aneesh's Home Page</center>
+        <!--<img src="Pictures/home pg.gif"/>   //-->
+       <img style='float:center'/> 
 
 
 </body>
