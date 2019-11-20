@@ -9,15 +9,12 @@
 </head>
 
 <body>
-       <marquee behavior="scroll" direction="left" scrollamount="1">Hello</marquee>
-       <marquee behavior="alternate" scrollamount="10">Welcome</marquee>
-       <marquee behavior="scroll" direction="left" scrollamount="20">gf,gc,,g,mgj</marquee>
-
+      
     	<a href="about.html">About Me:</a>
     	<a href="portfolio.html">Portfolio:</a>
 
-
-    	<marquee behavior ="scroll" direction="left" scrollamount="1"><center> Aneesh's Home Page</center><marquee>
+  	<center><marquee  behavior="scroll" direction="up">Aneesh's Home Page</marquee></center>
+   Aneesh's Home Page</center
       <img src="Pictures/home pg.gif"/>   
        <img style='float:center'/> 
 
